@@ -1,5 +1,5 @@
 /**
- * redis demo
+ * redis demo using js
  */
 const axios = require('axios');
 const express = require('express');
